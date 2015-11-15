@@ -15,7 +15,7 @@ Setup Unit Tests for Module
 ---------------
 The following steps are needed to setup unit testing for your module.
 
-### Module Configuration
+### Module Configurations
 
 Add phpunit.xml to module-root with at least the following content:
 
